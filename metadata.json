@@ -1,0 +1,5 @@
+{
+  "name": "Nike AI Virtual Try-On",
+  "description": "A Nike-inspired sportswear storefront where users can upload their photo and see AI-generated images of themselves modeling each product, using Google Gemini for realistic try-on photos.",
+  "requestFramePermissions": []
+}
